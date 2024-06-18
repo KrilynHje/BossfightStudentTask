@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\bin\Debug\net8.0\BossfightStudentTask.exe
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\bin\Debug\net8.0\BossfightStudentTask.deps.json
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\bin\Debug\net8.0\BossfightStudentTask.runtimeconfig.json
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\bin\Debug\net8.0\BossfightStudentTask.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\bin\Debug\net8.0\BossfightStudentTask.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.AssemblyInfo.cs
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.sourcelink.json
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\refint\BossfightStudentTask.dll
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.pdb
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\BossfightStudentTask.genruntimeconfig.cache
+C:\Users\krist\source\repos\SKOLEMAPPE\BossfightStudentTask\BossfightStudentTask\obj\Debug\net8.0\ref\BossfightStudentTask.dll

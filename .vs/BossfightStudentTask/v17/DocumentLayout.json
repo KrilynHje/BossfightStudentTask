@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bossfightstudenttask\\bossfightstudenttask\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|solutionrelative:bossfightstudenttask\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bossfightstudenttask\\bossfightstudenttask\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|solutionrelative:bossfightstudenttask\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bossfightstudenttask\\bossfightstudenttask\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|solutionrelative:bossfightstudenttask\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bossfightstudenttask\\bossfightstudenttask\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|solutionrelative:bossfightstudenttask\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B54E29C6-F649-4D27-AB3A-3D7D66D34A29}|BossfightStudentTask\\BossfightStudentTask.csproj|c:\\users\\krist\\source\\repos\\skolemappe\\bossfightstudenttask\\bossfightstudenttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -32,35 +36,48 @@
               "RelativeDocumentMoniker": "BossfightStudentTask\\Champion.cs",
               "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Champion.cs",
               "RelativeToolTip": "BossfightStudentTask\\Champion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T06:59:56.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Boss.cs",
               "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Boss.cs",
               "RelativeDocumentMoniker": "BossfightStudentTask\\Boss.cs",
               "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Boss.cs",
               "RelativeToolTip": "BossfightStudentTask\\Boss.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T06:59:36.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Program.cs",
               "RelativeDocumentMoniker": "BossfightStudentTask\\Program.cs",
               "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Program.cs",
               "RelativeToolTip": "BossfightStudentTask\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T06:59:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Battle.cs",
+              "RelativeDocumentMoniker": "BossfightStudentTask\\Battle.cs",
+              "ToolTip": "C:\\Users\\krist\\source\\repos\\SKOLEMAPPE\\BossfightStudentTask\\BossfightStudentTask\\Battle.cs",
+              "RelativeToolTip": "BossfightStudentTask\\Battle.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:52:02.306Z",
               "EditorCaption": ""
             }
           ]

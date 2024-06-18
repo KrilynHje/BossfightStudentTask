@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BossfightStudentTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bfd0fa761349dfd4aa2492df3c5877825dc440e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BossfightStudentTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BossfightStudentTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
